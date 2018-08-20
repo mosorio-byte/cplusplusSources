@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518166583 source:c:\users\mamue\onedrive\documentos\c++ @2018\attribute parser\main.cpp
+	<cmath>
+	<string.h>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<map>
+

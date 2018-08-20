@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530937111 source:c:\users\mamue\onedrive\documentos\c++ @2018\senac++nivel3_2\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1517455660 source:c:\users\mamue\onedrive\documentos\c++ @2018\problema solucionado attribute parser\main.cpp
+	<cmath>
+	<string.h>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
