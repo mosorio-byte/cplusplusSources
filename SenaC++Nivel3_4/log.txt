@@ -1,4 +1,0 @@
-suma: 5+12i
-resta: 3+-6i
-multiplicacion: -23+39i
-division: 0.378049+-0.402439i
